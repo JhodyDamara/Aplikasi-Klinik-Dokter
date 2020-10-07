@@ -1,0 +1,46 @@
+D:\klinik\klinik\obj\Debug\ResolveAssemblyReference.cache
+D:\klinik\klinik\obj\Debug\klinik.Data_Dokter.resources
+D:\klinik\klinik\obj\Debug\klinik.Data_Obat.resources
+D:\klinik\klinik\obj\Debug\klinik.Data_Pasien.resources
+D:\klinik\klinik\obj\Debug\klinik.Data_Perawat.resources
+D:\klinik\klinik\obj\Debug\klinik.Form_Login.resources
+D:\klinik\klinik\obj\Debug\klinik.Form_Main.resources
+D:\klinik\klinik\obj\Debug\klinik.Resources.resources
+D:\klinik\klinik\obj\Debug\klinik.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.Data_Dokter.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.Data_Pasien.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.Data_Perawat.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.Form_Login.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.Form_Main.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.Resources.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\bin\Debug\klinik.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\bin\Debug\klinik.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\bin\Debug\klinik.xml
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.xml
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.Form_Tindakan.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.form_laporan_dokter.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.form_laporan_perawat.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.form_laporan_pasien.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.form_laporan_tindakan.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.form_kartu_pasien.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.Splash.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.Form_Pendaftaran.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.Form_Cetak_Pendaftaran.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.Form_Laporan_Pendaftaran.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.Form_Laporan_Kunjungan.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.form_kunjungan_perpasien.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.form_rekam_medis.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\Interop.CTVLib.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\AxInterop.CTVLib.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.vbproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\bin\Debug\Interop.CTVLib.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\bin\Debug\AxInterop.CTVLib.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\klinik\klinik\obj\Debug\klinik.Form_Laporan_Harian.resources
